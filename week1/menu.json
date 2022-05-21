@@ -1,0 +1,93 @@
+{
+    "appetizers":[
+        {
+            "name": "Bloomed Onions",
+            "ingredients": ["onion", "spices", "flour", "your choice of dipping sauces"],
+            "description": "Each petal of our of our Bloomed Onions features a flavorful, tender onion slice, coated in spicey breading, deepfried to perfection for a crispy yummy crust! Served with your choice of three dipping sauces."
+        },
+
+        {
+            "name": "Deep Fried Pickles",
+            "ingredients": ["pickle slices", "spices", "flour", "your choice of dipping sauces"],
+            "description": "Every single one of our Deep Fried Pickles are battered in a colletion of delicious spices & fried to absolute perfection! Served with your choice of dipping sauces."
+        },
+        
+        {
+            "name": "Mozzar-Ella Sticks",
+            "ingredients": ["mozzarella sticks", "spices", "flour", "your choice of dipping sauces"],
+            "description": "Our Mozzar-Ella Stick breading is created with a special mix of unique spices, creating an appetizer that's delicious enough on it's own, no need for dipping sauces! No bland breading here! But if you'd like, you've got your choice of any two from the menu."
+        }
+    ],
+    
+
+    "cold-sandwiches":[
+        {
+            "name": "Caesar Salad Wraps",
+            "ingredients": ["whole wheat tortilla shell", "Caesar salad dressing", "Parmesian cheese", "chicken breast", "croutons", "romain lettuce"],
+            "description": "Who doesn't love a nice Caesar salad? Or a nice lunch wrap? Well how about the two together? Our tortilla shells are hand made, as is our Caesar salad dressing."
+        },
+        
+        {
+            "name": "BLT",
+            "ingredients": ["toasted white bread", "bacon", "romain lettuce", "tomato", "choice of cheese", "mustard", "mayo"],
+            "description": "You've had the rest, now try the best sizzling BLT there is!"
+        },
+    ],
+    
+
+    "hot-sandwiches": [
+        {
+            "name": "That's Crazy Bologna! Sub",
+            "ingredients": ["toasted french bread", "pepperoni", "mozzarella cheese", "pizza sauce", "choice of veggies", "choice of extra meat"],
+            "description": "I'm sure you've heard the saying 'Now that's CRAZY BOLOGNA!!!'... Well, CRAZY BOLOGNA exists & it's called PEPPERONI, & we've made a delicious sandwich out of it!"
+        },
+        
+        {
+            "name": "Philly's Wife's Cheese Steak Sandwich",
+            "ingredients": ["toasted french bread", "thinly sliced steak strips", "mozzarella cheese", "swiss cheese", "cheddar cheese", "romain lettuce", "mayo", "chopped green peppers"],
+            "description": "You've had a Philly Cheese Steak Sandwich, now try Philly's Wife's! It's cheesier & packed with more flavorful steak strips than any other!"
+        }
+    ],
+    
+
+    "desserts": [
+        {
+            "name": "Bannana-Rama Split",
+            "ingredients": ["vanilla-ice-cream", "hot fudge", "bannanas", "chocolate chips", "maraschino-cherry"],
+            "description": "Give in to your sweet tooth today with our handmade ice cream with not one- but TWO Bananas! Coated in hot fudge, chocolate chips, topped with a delectible ruby-red cherry."
+        },
+
+        {
+            "name": "Because... Root Beer Floats!!!",
+            "ingredients": ["vanilla-ice-cream", "hot fudge", "Root Beer", "maraschino-cherry"],
+            "description": "A Sailor once told me a story... That a Pirate forced him to walk the plank while he was enjoying his favorite dessert, & that he'd have drown if it hadn't been for one thing... ROOT BEER FLOATS!"
+        },
+        
+        {
+            "name": "99% Angel-food Cake",
+            "ingredients": ["Angelfood cake", "whipped cream", "chocolate drizzel", "fresh strawberries"],
+            "description": "Try our 99% Angel-food Cake! Moist, spongey cake beneath a coating of whipped cream & fresh strawberries with just a drizzle of chocolate. "
+        }
+    ],
+    
+
+    "drinks": [
+        {
+            "name": "Icey Cold Soda",
+            "ingredients": ["Coke", "Dr Pepper", "Sprite", "Mountain Dew","Root Beer", "Grape", "Orange", "Cream"],
+            "description": "Please choose from our wide selection of carbonated beverages. Don't worry, we offer FREE refills!"
+        },
+
+        {
+            "name": "Coffee",
+            "ingredients": ["vanilla", "chocolate", "hazelnut", "plain"],
+            "description": "Please choose from our wide selection of hot, caffeinated beverages. FREE refills on plain coffee!"
+        },
+        
+        {
+            "name": "Adult Beverages",
+            "ingredients": ["Wine", "Beer", "Mixed Drinks"],
+            "description": "Please choose from our wide selection of adult beverages. Half off on Beer on Saturdays!"
+        }
+    ]
+}
