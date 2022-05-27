@@ -1,0 +1,16 @@
+html {
+    margin: 10%;
+}
+
+body{
+    background-color: rgb(195, 240, 224);
+}
+
+h1 {
+    background-color: rgb(120, 194, 168);
+    border: 3px solid rgb(46, 61, 59);
+    padding: 2%;
+    font-family: cursive;
+    color: rgb(223, 230, 236);
+    margin-bottom: 20%;
+}
