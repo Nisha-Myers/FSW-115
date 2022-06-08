@@ -1,4 +1,3 @@
-
 const xhr = new XMLHttpRequest();
 
 xhr.open("GET", "https://pokeapi.co/api/v2/pokemon", true);

@@ -1,0 +1,31 @@
+html {
+    text-align: center;
+}
+
+li {
+    margin: 10px;
+    background: -webkit-linear-gradient(black, blanchedalmond);
+    color: rgb(250, 216, 216);
+    padding: 15px;
+    border-radius: 10px;
+}
+body {
+    width: 50%;
+    margin: auto;
+    background: -webkit-linear-gradient(rgb(175, 126, 126), black);
+}
+ol {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+
+}
+ h1 {
+    color: rgb(250, 216, 216);
+     font-size: 65px;
+ }
+
+ h2 {
+    color: rgb(250, 216, 216);
+    font-size: 40px;
+}
