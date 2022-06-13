@@ -1,0 +1,123 @@
+body {
+    width: 70%;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+/* headers */
+#pokie {
+    height: 200px;
+}
+
+#wars {
+    height: 200px;
+}
+
+
+
+/* h1 */
+#pokemon {
+    font-size: 70px;
+    margin-top: %;
+    padding-top: 12%;
+    text-align: center;
+}
+
+#stars {
+    font-size: 70px;
+    margin-top: 8%;
+    padding: -1%
+    margin-bottom: ;
+    text-align: center;
+}
+
+
+
+/* navigator */
+nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#link1 {
+    font-size: 25px;
+    padding: 15px;
+    background-color: red;
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+    text-decoration: none;
+}
+#link1:hover {
+    font-size: 35px;
+    padding: 15px;
+    background-color: red;
+    color: white;
+    border-radius: 35px 15px 0px 0px;
+    text-decoration: none;
+}
+#link1::after {}
+
+#link2 {
+    font-size: 25px;
+    padding: 15px;
+    background-color: black;
+    color: yellow;
+    border-radius: 15px 15px 0px 0px;
+    text-decoration: none;
+}
+#link2:hover {
+    font-size: 35px;
+    padding: 15px;
+    background-color: black;
+    color: yellow;
+    border-radius: 35px 15px 0px 0px;
+    text-decoration: none;
+}
+
+
+
+
+main {
+    border: 10px solid black;
+    border-radius: 3px
+}
+main > button {
+    background-color: ;
+    font-size: 60px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* button edits */
+#getList1 {
+    background-image: url(pokemon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#getList1:hover {}
+
+#getList2 {
+    color: yellow;
+}
+#getList2 {}
+
+
+
+/* footer edit */
+footer {
+    height: 110px;
+}
+
+h6 {
+    color: black;
+    text-align: center;
+}
