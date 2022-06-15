@@ -6,30 +6,29 @@ body {
 
 
 
-/* headers */
+/* header's */
 #pokie {
+    color: red;
+    font-family: 'Amatic SC', cursive;
     height: 200px;
 }
 
 #wars {
+    color: black;
+    font-family: 'IBM Plex Mono', monospace;
     height: 200px;
 }
 
 
 
-/* h1 */
+/* h1's */
 #pokemon {
-    font-size: 70px;
-    margin-top: %;
-    padding-top: 12%;
+    font-size: 130px;
     text-align: center;
 }
 
 #stars {
-    font-size: 70px;
-    margin-top: 8%;
-    padding: -1%
-    margin-bottom: ;
+    font-size: 80px;
     text-align: center;
 }
 
@@ -43,7 +42,9 @@ nav {
 }
 
 #link1 {
-    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 900;
+    font-size: 35px;
     padding: 15px;
     background-color: red;
     color: white;
@@ -51,17 +52,19 @@ nav {
     text-decoration: none;
 }
 #link1:hover {
-    font-size: 35px;
+    font-size: 45px;
     padding: 15px;
-    background-color: red;
-    color: white;
+    background-color: white;
+    color: red;
+    border: 3px solid red;
     border-radius: 35px 15px 0px 0px;
     text-decoration: none;
 }
 #link1::after {}
 
 #link2 {
-    font-size: 25px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 28px;
     padding: 15px;
     background-color: black;
     color: yellow;
@@ -71,46 +74,85 @@ nav {
 #link2:hover {
     font-size: 35px;
     padding: 15px;
-    background-color: black;
-    color: yellow;
+    background-color: yellow;
+    color: black;
+    border: 3px solid black;
     border-radius: 35px 15px 0px 0px;
     text-decoration: none;
 }
 
 
 
-
-main {
-    border: 10px solid black;
+/* list edits */
+#list1 {
+    color: red;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    padding: 10%;
+    border: 10px solid red;
     border-radius: 3px
 }
-main > button {
-    background-color: ;
+#list1 > button {
+    background-color:;
     font-size: 60px;
     border-radius: 50%;
     width: 300px;
     height: 300px;
     display: block;
     margin: auto;
+    padding: 1%;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 
+#list2 {
+    color: yellow;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 6%;
+    border: 10px solid black;
+    border-radius: 3px
+}
+#list2 > button {
+    background-color:;
+    font-size: 40px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 1%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
 /* button edits */
 #getList1 {
+    font-family: 'Bangers', cursive;
+    color: white;
     background-image: url(pokemon.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
+    background-size: contain;
+    border: 1px solid white;
 }
 #getList1:hover {}
 
 #getList2 {
     color: yellow;
 }
-#getList2 {}
+#getList2 {
+    font-family: 'IBM Plex Mono', monospace;
+    background-image: url(galaxy.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: 1px solid black;
+}
 
-
+#list2 {
+    background-color: rgb(0, 0, 0);
+}
 
 /* footer edit */
 footer {
