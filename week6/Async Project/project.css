@@ -1,0 +1,47 @@
+html {
+    background-image: linear-gradient(antiquewhite, white);
+    font-family: 'Berkshire Swash', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+b {
+    font-size: 28px;
+}
+
+div {
+    margin: 6%;
+}
+
+#api1 {
+    margin: 2%;
+    padding: 3%;
+    border-radius: 8px;
+    background-image: linear-gradient(blue, skyblue);
+}
+#api1:hover {
+    font-size: 25px;
+}
+
+#api2 {
+    margin: 2%;
+    padding: 3%;
+    border-radius: 8px;
+    background-image: linear-gradient(purple, antiquewhite);
+}
+#api2:hover {
+    font-size: 25px;
+}
+
+#api3 {
+    margin: 2%;
+    padding: 3%;
+    border-radius: 8px;
+    background-image: linear-gradient(green, lightgreen, antiquewhite, green);
+}
+#api3:hover {
+    font-size: 25px;
+}
