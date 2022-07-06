@@ -15,26 +15,30 @@ header{
 }
 
 label {
+    margin: 2%;
     font-family: 'MedievalSharp', cursive;
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 22px;
     color:rgb(245, 222, 192);
 }
 
 input {
+    margin: 3%;
     font-family: 'Rock Salt', cursive;
     font-size: 18px;
 }
 
 button {
+    margin: 5%;
     background-image: url(parch.jpg);
     font-family: 'MedievalSharp', cursive;
     font-weight: bolder;
-    font-size: 18px;
+    font-size: 20px;
     color:burlywood;
 }
 
 h4 {
+    margin: 6%;
     color:burlywood;
 }
 
@@ -43,8 +47,8 @@ h4 {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin: 10px;
-    padding: 5px;
+    margin: 3%;
+    padding: 2%;
     font-size: larger;
     text-align: center;
 }
